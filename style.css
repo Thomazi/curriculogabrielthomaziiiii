@@ -1,0 +1,22 @@
+h1{ color: #3A3845;
+   text-align: center;
+   text-decoration-line: overline;
+   text-shadow: 1px 1px 6px white;
+   font-size: 50px;
+   font-family:  "Times New Roman", Times, serif;
+}
+body{
+  background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-031.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+h3{ color:#3A3845;
+   text-align: left;
+   font-size: 30px;
+}
+.paragrafo {color: #3A3845;
+font-size: 23px;
+text-align: left;
+font-family: Arial, sans-serif;
+font-weight: normal;
+}
